@@ -60,4 +60,19 @@ docker compose pull
 Das ist definitiv Geschmachssache und hängt von der Umgebung ab. Wenn man mehr als ein Projekt (zum Beispiel einen Blog und ein Pihole) auf einem Server betreibt, sollte man für jedes einen Ordner anlegen und darin eine Docker-Compose-Datei ablegen. Die nützlichen Helfer wie Portainer und Watchtower kommen zusammen in eine weitere Datei. Dann kann man mit `docker compose down`gezielt Teile der Umgebung herunterfahren.
 
 
+## pihole
+
+Ein Pi-hole ist ein netzwerkweiter Werbe- und Trackingblocker, der als virtuelles Schutzschild dient und unerwünschte Inhalte blockiert, noch bevor sie Ihre Geräte überhaupt erreichen
+
+## portainer
+
+Portainer ist eine intuitive, webbasierte Benutzeroberfläche zur einfachen Verwaltung und Überwachung von Docker-Containern, Kubernetes-Clustern und Docker Swarm-Umgebungen.
+
+## portainer
+
+Watchtower ist ein automatisiertes Open-Source-Werkzeug für Docker, das laufende Container im Hintergrund überwacht und sie automatisch auf die neueste Version aktualisiert, sobald ein neues Image in der Registry verfügbar ist.
+
+## nginx
+
+Nginx ist eine extrem schnelle und ressourcenschonende Open-Source-Software, die hauptsächlich als Webserver, Reverse Proxy und Load Balancer eingesetzt wird, um Webinhalte stabil und effizient an viele Nutzer gleichzeitig auszuliefern.
 
