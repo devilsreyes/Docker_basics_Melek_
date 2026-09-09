@@ -62,7 +62,7 @@ Das ist definitiv Geschmachssache und hängt von der Umgebung ab. Wenn man mehr 
 
 ## Pihole
 
-Ein Pi-hole ist ein netzwerkweiter Werbe- und Trackingblocker, der als virtuelles Schutzschild dient und unerwünschte Inhalte blockiert, noch bevor sie Ihre Geräte überhaupt erreichen
+Ein Pi-hole ist ein netzwerkweiter Werbe- und Trackingblocker, der als virtuelles Schutzschild dient und unerwünschte Inhalte blockiert, noch bevor sie Ihre Geräte überhaupt erreichen.
 
 ## Portainer
 
